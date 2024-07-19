@@ -1,0 +1,2 @@
+// CODE TO Count
+db.school.find().count()
